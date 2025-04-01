@@ -37,8 +37,10 @@ h1{
 }
 #info{
     color: hsl(0, 0%, 70%);
+    margin-bottom: 0.7rem;
 }
 button{
+    font-size: 1rem;
     display: block;
     background-color:hsl(0,0%,12%);
     color:white;
